@@ -38,7 +38,7 @@ Corpus actually generated: **100,000 documents = 4,962,503 tokens** streamed to 
 
 - Prepared for **Sai Veda**
 - Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.md`](./PROJECT_DOCUMENT.md)
+- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
