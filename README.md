@@ -34,9 +34,9 @@ docs / 396,586 tokens), seed-fixed and reproducible with `make run`:
 Corpus actually generated: **100,000 documents = 4,962,503 tokens** streamed to a
 **18.8 MB** zstd Parquet token table, queried out-of-core with DuckDB.
 
-## Project Brief
+## Project Document
 
-- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Research report: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
